@@ -5,7 +5,7 @@ ToDo List项目，基于Vue和Koa2.
 ![none](https://upload-images.jianshu.io/upload_images/15435235-4d85bcc536f0b523.gif?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
 
 # 特点
-- 实现ToDo内容计事，完成状态，修改及删除
+- 实现ToDo内容记事，完成状态，修改及删除
 - 实现用户登陆
 - 前后端分离开发，符合RESTful规范接口
 
